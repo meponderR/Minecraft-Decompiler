@@ -1,0 +1,1 @@
+java -jar jd-cli.jar client-deobf.jar -od Decompiled -oc
