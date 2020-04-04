@@ -1,3 +1,3 @@
-wget https://launcher.mojang.com/v1/objects/cc5cb23748614a6396ffb77427b4f11f4b6ae99b/client.jar
+wget https://launcher.mojang.com/v1/objects/e4f75e82519fe859932d22c9c05b762cd544af11/client.jar
 debof
 decompile

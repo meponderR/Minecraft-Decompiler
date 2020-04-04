@@ -1,1 +1,1 @@
-MC-Remapper --mapping https://launcher.mojang.com/v1/objects/9c696595b65e342a25ff96d7375b744c8a8aa51d/client.txt --input client.jar --output client-deobf.jar --thread 8 --fixlocalvar=rename
+MC-Remapper --mapping https://launcher.mojang.com/v1/objects/2ca7b2a15da9b836992873b40f959a24cf09d603/client.txt --input client.jar --output client-deobf.jar --thread 8 --fixlocalvar=rename
